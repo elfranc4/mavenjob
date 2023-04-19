@@ -1,2 +1,1 @@
-# mavenjob
-mavenfiles for my  maven artifacts
+# maven-etech-application
